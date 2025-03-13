@@ -42,7 +42,7 @@ n8n là một công cụ tự động hóa workflow mã nguồn mở, cho phép 
 
 3. **Import Workflow**
    - Tải template từ [templates/wordpress-auto-post-template.json](templates/wordpress-auto-post-template.json)
-   - Trong n8n, nhấp vào "Import from File"
+   - Trong n8n, nhấp vào \"Import from File\"
    - Chọn file đã tải xuống
    - Xem hướng dẫn chi tiết tại [docs/import-template.md](docs/import-template.md)
 
